@@ -28,10 +28,9 @@ A fun, interactive web application that tells you your current vibe. Click the b
 Simply clone the repository and open `index.html` in your browser. No build process or dependencies required!
 
 ```bash
-git clone https://github.com/yourusername/whats-my-vibe.git
+git clone https://github.com/Ronniie/WhatsMyVibe.git
 cd whats-my-vibe
 ```
 
 ## License
-
 MIT License - feel free to use this project for whatever you want! 
