@@ -29,7 +29,7 @@ Simply clone the repository and open `index.html` in your browser. No build proc
 
 ```bash
 git clone https://github.com/Ronniie/WhatsMyVibe.git
-cd whats-my-vibe
+cd WhatsMyVibe
 ```
 
 ## License
